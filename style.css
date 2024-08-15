@@ -1,0 +1,30 @@
+body{
+    background-color: aquamarine;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+    margin-top: 50px;
+    padding: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+input[type="text"] {
+    width: 300px;
+    padding: 10px;
+    margin: 10px 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #b2730e;
+    color: white;
+    cursor: pointer;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+button:hover {
+    background-color: #0e287d;
+}
+
